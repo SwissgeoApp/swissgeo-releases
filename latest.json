@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.1/SwissGeo-v1.6.1-win64.zip",
+  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.2/SwissGeo-v1.6.2-win64.zip",
   "mandatory": false,
   "minimum_supported_version": "1.5.0",
-  "published_at": "2026-06-18T18:04:11Z",
-  "release_notes": "2026.06.18 -> hotfix mise a jour: version release_info, canal stable et updater externe.",
+  "published_at": "2026-06-18T18:39:15Z",
+  "release_notes": "20260618 - 20:30 - test",
   "schema_version": 1,
-  "sha256": "0b14c964188d76f87028b909ab03e45c071b6301a5ba3794f7f79d36c85fb77e",
-  "size_bytes": 260318072,
-  "version": "1.6.1"
+  "sha256": "7512ff6e78afc981969183304cc2ce0d5476673d4a5b48ae3ba8c5c19c57c218",
+  "size_bytes": 260318081,
+  "version": "1.6.2"
 }
