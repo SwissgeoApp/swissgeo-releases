@@ -1,0 +1,12 @@
+{
+  "channel": "beta",
+  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.5.2/SwissGeo-v1.5.2-win64.zip",
+  "mandatory": false,
+  "minimum_supported_version": "1.5.0",
+  "published_at": "2026-06-18T07:47:13Z",
+  "release_notes": "2026.06.18 -> quatrième test",
+  "schema_version": 1,
+  "sha256": "51562546deb2d83129042e9e9118fb50e77af3f90b93f55516b3e56ae3e14858",
+  "size_bytes": 260312275,
+  "version": "1.5.2"
+}
