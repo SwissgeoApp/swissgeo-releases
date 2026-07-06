@@ -1,13 +1,13 @@
 {
   "channel": "stable",
-  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.2/SwissGeo-v1.6.2-win64.zip",
+  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.21/SwissGeo-v1.6.21-win64.zip",
   "force_downgrade": false,
-  "mandatory": true,
+  "mandatory": false,
   "minimum_supported_version": "1.5.0",
-  "published_at": "2026-06-30T18:21:31Z",
-  "release_notes": "- Correction de bug, stabilité de l'app et optimisation\n- Refonte graphique\n- Ajout de fonctionalitées (import ortho. existante, méthodologie import arbre, lissage des C.N.)",
+  "published_at": "2026-07-06T10:20:50Z",
+  "release_notes": "06.07.2026\n\n- Correction de bug\n- Ajout de la fonctionalité d'automatisations\n--Ajout de l'automatisation \"VIAGEO\"\n- Ajout d'une prévisualisation de la zone d'import\n- Modification et stabilisation de l'import cadastral\n- Modification mineures de l'interface et du cache de la zone séléctionnée",
   "schema_version": 1,
-  "sha256": "d5042ae24c8d55015348132dedacec52929400f03e778245c7b44ee81e69e56a",
-  "size_bytes": 260753413,
-  "version": "1.6.2"
+  "sha256": "b068e16279352be0e6e9832ab2e685d83b85ee8c7b51c8fe07d95b3884807460",
+  "size_bytes": 261512150,
+  "version": "1.6.21"
 }
