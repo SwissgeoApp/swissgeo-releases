@@ -1,13 +1,13 @@
 {
   "channel": "stable",
-  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.21/SwissGeo-v1.6.21-win64.zip",
+  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.22/SwissGeo-v1.6.22-win64.zip",
   "force_downgrade": false,
   "mandatory": false,
   "minimum_supported_version": "1.5.0",
-  "published_at": "2026-07-06T10:20:50Z",
-  "release_notes": "06.07.2026\n\n- Correction de bug\n- Ajout de la fonctionalité d'automatisations\n--Ajout de l'automatisation \"VIAGEO\"\n- Ajout d'une prévisualisation de la zone d'import\n- Modification et stabilisation de l'import cadastral\n- Modification mineures de l'interface et du cache de la zone séléctionnée",
+  "published_at": "2026-07-14T21:04:40Z",
+  "release_notes": "14.07.2026\n- Optimisations du démarrage de l'app\n- Modification Lisp : Scann le document pour envoyer les objets dans l'automatisation \"Profils\"\n- Ajout des Automatisations suivantes : Profils de terrain, Altitude\n- Modification de l'UI principale\n- Ajout de modfication du centre de l'importation\n- Corrections de bug mineurs",
   "schema_version": 1,
-  "sha256": "b068e16279352be0e6e9832ab2e685d83b85ee8c7b51c8fe07d95b3884807460",
-  "size_bytes": 261512150,
-  "version": "1.6.21"
+  "sha256": "836309bacf87759513913c2dedfb0a0f690a77c6b185214f49b125faf86a0ca0",
+  "size_bytes": 263630068,
+  "version": "1.6.22"
 }
