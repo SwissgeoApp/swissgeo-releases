@@ -1,13 +1,13 @@
 {
   "channel": "stable",
-  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.22/SwissGeo-v1.6.22-win64.zip",
+  "download_url": "https://github.com/SwissgeoApp/swissgeo-releases/releases/download/v1.6.23/SwissGeo-v1.6.23-win64.zip",
   "force_downgrade": false,
   "mandatory": false,
   "minimum_supported_version": "1.5.0",
-  "published_at": "2026-07-14T21:04:40Z",
-  "release_notes": "14.07.2026\n- Optimisations du démarrage de l'app\n- Modification Lisp : Scann le document pour envoyer les objets dans l'automatisation \"Profils\"\n- Ajout des Automatisations suivantes : Profils de terrain, Altitude\n- Modification de l'UI principale\n- Ajout de modfication du centre de l'importation\n- Corrections de bug mineurs",
+  "published_at": "2026-08-04T19:24:28Z",
+  "release_notes": "",
   "schema_version": 1,
-  "sha256": "836309bacf87759513913c2dedfb0a0f690a77c6b185214f49b125faf86a0ca0",
-  "size_bytes": 263630068,
-  "version": "1.6.22"
+  "sha256": "e83a626c9693108483cf7c0dc7fc5987018b5befbdf736a9c4d744cbbb151937",
+  "size_bytes": 298180002,
+  "version": "1.6.23"
 }
